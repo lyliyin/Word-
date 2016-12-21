@@ -1,0 +1,51 @@
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.WebUI.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.WebUI.pdb
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Helpers.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Mvc.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Providers.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Razor.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Helpers.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Mvc.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.Razor.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\obj\Debug\CastleDemo.WebUI.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\obj\Debug\CastleDemo.WebUI.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\obj\Debug\CastleDemo.WebUI.pdb
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.Domain.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\Castle.Windsor.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\Castle.Core.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.Domain.pdb
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\Castle.Windsor.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.WebUI\bin\Castle.Core.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.WebUI.dll.config
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.WebUI.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.WebUI.pdb
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.Domain.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Helpers.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Mvc.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Providers.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Razor.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\Castle.Windsor.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\Castle.Core.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\CastleDemo.Domain.pdb
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Helpers.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Mvc.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.Razor.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\Castle.Windsor.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\bin\Castle.Core.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\obj\Debug\CastleDemo.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\obj\Debug\CastleDemo.WebUI.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.WebUI\obj\Debug\CastleDemo.WebUI.pdb

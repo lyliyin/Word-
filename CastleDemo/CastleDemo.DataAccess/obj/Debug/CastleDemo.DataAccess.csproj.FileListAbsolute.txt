@@ -1,0 +1,28 @@
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.DataAccess.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.DataAccess.pdb
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Core.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Windsor.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.Domain.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.Domain.pdb
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Core.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Windsor.xml
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\obj\Debug\CastleDemo.DataAccess.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\obj\Debug\CastleDemo.DataAccess.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\obj\Debug\CastleDemo.DataAccess.pdb
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.DataAccess.dll.config
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\EntityFramework.dll
+D:\documents\visual studio 2012\Projects\CastleDemo\CastleDemo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.DataAccess.dll.config
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.DataAccess.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.DataAccess.pdb
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Core.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Windsor.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.Domain.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\CastleDemo.Domain.pdb
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Core.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\Castle.Windsor.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\obj\Debug\CastleDemo.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\obj\Debug\CastleDemo.DataAccess.dll
+C:\Users\TEN\Desktop\CastleDemo\CastleDemo.DataAccess\obj\Debug\CastleDemo.DataAccess.pdb
